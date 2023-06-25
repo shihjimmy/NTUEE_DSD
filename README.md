@@ -11,6 +11,7 @@
 * Register File
 * Simple Calculator
 ## HW2
+* Synthesis practice
 * single cycle RISCV processor
 ## HW3
 * cache unit design
