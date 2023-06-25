@@ -1,4 +1,3 @@
-# Digital System Design
 ## HW0
 * gate level verilog
 * always vs assign
